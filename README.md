@@ -7,3 +7,4 @@ It solves three main problems for the Indian demographic in terms of sustainabil
   Conscious makes it effortless by giving pickup services on the doorstep.
 3. <b>NO LESSONS INVOLVED</b>: When we rely on kabadiwalas and online services to get rid of the waste, we do not know the extensive steps taken to recycle something. <br>
   Conscious gives an insight as to how much effort goes into recycling, which allows for users to buy in a sustainable and viable manner.
+Conscious in currently in the ideation phase. There has been no coding for backend.
